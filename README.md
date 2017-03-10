@@ -5,4 +5,4 @@ The program can translate any text input from the user and to morsecode and play
 
 Download program here:
 
-https://github.com/Shinobyte/MorseCodeTranslator/blob/master/Forms_MorseCodeTranslator/bin/Release/MorseCodeTranslator.exe
+https://github.com/Shinobyte/MorseCodeTranslator/raw/master/Forms_MorseCodeTranslator/bin/Release/MorseCodeTranslator.exe
